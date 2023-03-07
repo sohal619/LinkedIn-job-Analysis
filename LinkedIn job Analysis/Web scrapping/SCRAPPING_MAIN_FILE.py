@@ -12,7 +12,7 @@ import numpy as np
 class LinkedIn:
     def __init__(self):
         self.mail = "ENTER YOUR MAIL ID"
-        self.password = "ENTER PASSWORD"
+        self.password = "ENTER YOUR PASSWORD"
 
         self.chrome_web = Service('chromedriver.exe')
         self.driver = webdriver.Chrome(ChromeDriverManager().install())
