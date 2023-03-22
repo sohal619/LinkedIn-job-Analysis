@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import pickle
 
-with open('final_data.pkl', 'rb') as file:
+with open('data.pkl', 'rb') as file:
     df = pickle.load(file)
 
 skills = ['PYTHON', 'C++', 'JAVA', 'HADOOP', 'SCALA', 'FLASK',
