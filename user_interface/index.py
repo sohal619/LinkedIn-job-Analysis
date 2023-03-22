@@ -1,11 +1,38 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-from backend import Data
 import pickle
+
+with open('final_data.pkl', 'rb') as file:
+    df = pickle.load(file)
+
+skills = ['PYTHON', 'C++', 'JAVA', 'HADOOP', 'SCALA', 'FLASK',
+          'PANDAS', 'SPARK', 'NUMPY', 'PHP', 'SQL', 'MYSQL', 'CSS', 'MONGODB',
+          'NLTK', 'TENSORFLOW', 'LINUX', 'RUBY', 'JAVASCRIPT', 'DJANGO', 'REACT',
+          'REACTJS', 'AI', 'UI', 'TABLEAU', 'NODEJS', 'EXCEL', 'POWER BI',
+          'SELENIUM', 'HTML', 'ML']
+
+experience_level = 'Not available'
+industry = 'Not available'
+company_class = 'Not available'
+num_of_jobs = 0
+
+
+def data_sender(skill_key):
+    global df, experience_level, industry, company_class, num_of_jobs
+    for i in skills:
+        if i in skill_key:
+            df = df[df[i] == 1]
+            experience_level = df['Involvement'].mode()[0].strip(' ')
+            industry = df['Industry'].mode()[0].strip(' ')
+            company_class = df['Class'].mode()[0].strip(' ')
+            num_of_jobs = len(df)
+    df = df[['Name', 'Class', 'Designation', 'Location', 'Total_applicants',
+             'LinkedIn_Followers', 'Level', 'Involvement', 'Employee_count',
+             'Industry']]
+    return df, experience_level, industry, company_class, num_of_jobs
 
 
 st.set_page_config(page_title='Job Analysis', page_icon=':star:')
-data = Data()
 
 selected = option_menu(
     menu_title=None,
@@ -14,7 +41,6 @@ selected = option_menu(
     orientation='horizontal'
 )
 placeholder = st.empty()
-
 
 if selected == 'Home':
     with open('jobs_data.pkl', 'wb') as file:
@@ -34,7 +60,7 @@ if selected == 'Home':
             st.write(":red[Enter Skill is required ⚠]")
         else:
             placeholder.empty()
-            related_data = data.data_sender(skill.upper())
+            related_data = data_sender(skill.upper())
             st.write(f'### Most common Experience level: {related_data[1]}')
             st.write(f'### Most common Industry: {related_data[2]}')
             st.write(f'### Most common Company class: {related_data[3]}')
