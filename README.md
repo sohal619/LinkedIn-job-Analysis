@@ -6,6 +6,8 @@ LinkedIn-job-Analysis:
 * Through this project, providing the job finding solution based on skills.
 * This project is inspired by LinkedIn.
 
+<img src="https://github.com/sohal619/icons-pics/blob/main/LJA%20TECH%20SET.png?raw=true">
+
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/foldergif.gif?raw=true" align="center"> 
 User's Guide:
