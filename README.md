@@ -20,4 +20,10 @@ User's Guide:
 | **user_interface**  | In this directory I have provided a python in which I have created UI for the project with the help of streamlit and deployed it on streamlit cloud. |
 | **Presentation Folder**    | You can view all the insights and other information about the project in a PPT file.  |
 
-
+<h2>
+<img src="https://github.com/sohal619/icons-pics/blob/main/dot-bricksgif.gif?raw=true"> 
+User Interface:
+</h2>
+<a href="https://sohal619-linkedin-job-analysis-user-interfaceindex-sao7ss.streamlit.app/">
+<img src="https://github.com/sohal619/icons-pics/blob/main/LJA.jpg?raw=true" width=578 height=431>
+</a>
