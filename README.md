@@ -32,7 +32,7 @@ User Interface:
 click on image to visit:
 
 <a href="https://sohal619-linkedin-job-analysis-user-interfaceindex-sao7ss.streamlit.app/">
-<img src="https://github.com/sohal619/icons-pics/blob/main/LJA.jpg?raw=true" width=478 height=331>
+<img src="https://github.com/sohal619/icons-pics/blob/main/LJA.jpg?raw=true" width=478 height=390>
 </a>
 
 <br>
