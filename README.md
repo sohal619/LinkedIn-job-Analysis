@@ -1,5 +1,5 @@
 <h1>
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-jobs-job-search-flaticons-lineal-color-flat-icons-6.png"/> 
+<img src=""> 
 LinkedIn-job-Analysis:
 </h1>
 
