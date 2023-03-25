@@ -43,3 +43,6 @@ Dashboard:
 </h2>
 
 click on image to visit:
+<a href="https://sohal619.github.io/LJA-dashboard/">
+<img src="https://github.com/sohal619/icons-pics/blob/main/LJA-DASH.jpg?raw=true">
+</a>
