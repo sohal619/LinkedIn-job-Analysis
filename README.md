@@ -24,6 +24,25 @@ User's Guide:
 
 <br>
 
+## Job Opening By States
+![1](https://user-images.githubusercontent.com/96174306/232258096-ddf4ec20-1b49-4763-bbc0-f963821bec5f.png)
+
+## Job Opening By Company
+![3](https://user-images.githubusercontent.com/96174306/232258570-d331051a-5613-4320-9c98-8f413c605a38.png)
+
+## Job Opening By Involvement Nature
+![image](https://user-images.githubusercontent.com/96174306/232258363-68159021-36ca-431d-9187-7a808a3186e8.png)
+
+## Relation Between Followers & Employee Count
+![6](https://user-images.githubusercontent.com/96174306/232258375-94834735-03b0-44a4-8f4c-9396187ca1e1.png)
+
+## Total Applications Received By Each Company
+![7](https://user-images.githubusercontent.com/96174306/232258385-7eea7ac7-06fa-4d97-adb6-7c744f7479cf.png)
+
+## Jobs That Require Specific Particular Skill
+![10](https://user-images.githubusercontent.com/96174306/232258393-1d0a7312-4cef-487e-954d-952908d779c2.png)
+
+
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/dot-bricksgif.gif?raw=true" align="center"> 
 User Interface:
