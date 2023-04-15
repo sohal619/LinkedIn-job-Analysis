@@ -24,23 +24,28 @@ User's Guide:
 
 <br>
 
-## Job Opening By States
-![1](https://user-images.githubusercontent.com/96174306/232258096-ddf4ec20-1b49-4763-bbc0-f963821bec5f.png)
+<h1>
+<img src="https://github.com/sohal619/icons-pics/blob/main/detective.gif?raw=true" align="center"> 
+Insights:
+</h1>
 
-## Job Opening By Company
-![3](https://user-images.githubusercontent.com/96174306/232258570-d331051a-5613-4320-9c98-8f413c605a38.png)
+## 1. Job Opening By States
+![1](https://user-images.githubusercontent.com/96174306/232258633-af963f09-9cf6-4b6b-ba61-5d8e808dbf59.png)
 
-## Job Opening By Involvement Nature
-![image](https://user-images.githubusercontent.com/96174306/232258363-68159021-36ca-431d-9187-7a808a3186e8.png)
+## 2. Job Opening By Company
+![2](https://user-images.githubusercontent.com/96174306/232258644-c9e42bbd-96fd-4520-b4d7-01d8616dcbae.png)
 
-## Relation Between Followers & Employee Count
-![6](https://user-images.githubusercontent.com/96174306/232258375-94834735-03b0-44a4-8f4c-9396187ca1e1.png)
+## 3. Job Opening By Involvement Nature
+![3](https://user-images.githubusercontent.com/96174306/232258363-68159021-36ca-431d-9187-7a808a3186e8.png)
 
-## Total Applications Received By Each Company
-![7](https://user-images.githubusercontent.com/96174306/232258385-7eea7ac7-06fa-4d97-adb6-7c744f7479cf.png)
+## 4. Relation Between Followers & Employee Count
+![4](https://user-images.githubusercontent.com/96174306/232258794-562faae4-93d2-4a61-a4d2-19f98798127f.png)
 
-## Jobs That Require Specific Particular Skill
-![10](https://user-images.githubusercontent.com/96174306/232258393-1d0a7312-4cef-487e-954d-952908d779c2.png)
+## 5. Total Applications Received By Each Company
+![5](https://user-images.githubusercontent.com/96174306/232258666-fdf02aac-3e5a-450f-973f-51b7a788e62c.png)
+
+## 6. Jobs That Require Specific Particular Skill
+![6](https://user-images.githubusercontent.com/96174306/232258673-ce195cad-f1b0-4820-a2bc-0b3d0f2500a1.png)
 
 
 <h2>
