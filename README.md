@@ -29,6 +29,8 @@ User's Guide:
 Insights:
 </h1>
 
+* some visualisations after performing Exploratory Data Analysis!
+
 ## 1. Job Opening By States
 ![1](https://user-images.githubusercontent.com/96174306/232258633-af963f09-9cf6-4b6b-ba61-5d8e808dbf59.png)
 
