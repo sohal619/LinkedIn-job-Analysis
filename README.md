@@ -24,29 +24,29 @@ User's Guide:
 
 <br>
 
-<h1>
+<h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/detective.gif?raw=true" align="center"> 
 Insights:
-</h1>
+</h2>
 
 * some visualisations after performing Exploratory Data Analysis!
 
-## 1. Job Opening By States
+### 1. Job Opening By States
 ![1](https://user-images.githubusercontent.com/96174306/232258633-af963f09-9cf6-4b6b-ba61-5d8e808dbf59.png)
 
-## 2. Job Opening By Company
+### 2. Job Opening By Company
 ![2](https://user-images.githubusercontent.com/96174306/232258644-c9e42bbd-96fd-4520-b4d7-01d8616dcbae.png)
 
-## 3. Job Opening By Involvement Nature
+### 3. Job Opening By Involvement Nature
 ![3](https://user-images.githubusercontent.com/96174306/232258363-68159021-36ca-431d-9187-7a808a3186e8.png)
 
-## 4. Relation Between Followers & Employee Count
+### 4. Relation Between Followers & Employee Count
 ![4](https://user-images.githubusercontent.com/96174306/232258794-562faae4-93d2-4a61-a4d2-19f98798127f.png)
 
-## 5. Total Applications Received By Each Company
+### 5. Total Applications Received By Each Company
 ![5](https://user-images.githubusercontent.com/96174306/232258666-fdf02aac-3e5a-450f-973f-51b7a788e62c.png)
 
-## 6. Jobs That Require Specific Particular Skill
+### 6. Jobs That Require Specific Particular Skill
 ![6](https://user-images.githubusercontent.com/96174306/232258673-ce195cad-f1b0-4820-a2bc-0b3d0f2500a1.png)
 
 
